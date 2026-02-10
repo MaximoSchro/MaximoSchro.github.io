@@ -17,6 +17,16 @@ theme = 'PaperMod'
     url = "contact/"
     weight = 2
 
+
+
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
