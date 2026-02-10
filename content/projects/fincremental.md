@@ -3,9 +3,9 @@ draft: false
 title: "FincrementalOS"
 summary: "Lead Designer making UI for an incremental OS game created in Unity."
 cover:
-    image: /img/logobanner_bg.png
+    image: "img/logobanner_bg.png"
     alt: "Fincremenal Image"
-coverGif: /img/fishshooting.gif
+coverGif: "img/fishshooting.gif
 hiddenInHomeList: true
 weight: 1
 ---

@@ -3,9 +3,9 @@ draft: false
 title: "Cthulhu & Me"
 summary: "Designer working as scrum master while focusing on weapons and enemies"
 cover:
-    image: /img/cthulhulogo.png
+    image: "img/cthulhulogo.png"
     alt: "Cthulhu & Me Image"
-coverGif: /img/cthulhuandmefight.gif
+coverGif: "img/cthulhuandmefight.gif"
 hiddenInHomeList: true
 weight: 10
 ---
