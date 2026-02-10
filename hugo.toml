@@ -17,13 +17,6 @@ theme = 'PaperMod'
     url = "contact/"
     weight = 2
 
-
-[params]
-  imgPath = "img"
-
-[imageProcessing]
-  autoResize = false
-  
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
