@@ -9,12 +9,12 @@ coverGif: "img/fishshooting.gif"
 hiddenInHomeList: true
 weight: 1
 ---
-
+![Fincremental Image](img/logobanner_bg.png)
 ## Overview
 
 **FincrementalOS** is a incremental game where the player shoots fish from a submarine and interacts with a fake operating system to gain money, upgrade, and play various minigames to become stronger and gather even more fish.
 
-![Fincremental Image](img/stockshop.gif)
+![](img/stockshop.gif)
 
 ## My Work
 
