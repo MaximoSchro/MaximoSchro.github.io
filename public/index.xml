@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;
-&lt;h3 id=&#34;email&#34;&gt;Email: &lt;a href=&#34;mailto:maxsschroeder@gmail.com&#34;&gt;maxsschroeder@gmail.com&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href=&#34;mailto:maxsschroeder@gmail.com&#34;&gt;maxsschroeder@gmail.com&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;linkedin&#34;&gt;&lt;a href=&#34;https://www.linkedin.com/in/max-schroeder-972b112b5/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;itch&#34;&gt;&lt;a href=&#34;https://maximoschro.itch.io/&#34;&gt;Itch&lt;/a&gt;&lt;/h3&gt;</description>
     </item>
