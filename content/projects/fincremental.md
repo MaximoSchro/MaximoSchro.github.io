@@ -14,11 +14,7 @@ weight: 1
 
 **FincrementalOS** is a incremental game where the player shoots fish from a submarine and interacts with a fake operating system to gain money, upgrade, and play various minigames to become stronger and gather even more fish.
 
-<div style="float: center; width: 100%; max-width: 552; margin-left: 100px; margin-bottom: 150px; position: relative;">
-    <iframe 
-        frameborder="0" src="https://itch.io/embed/4084949?dark=true" width="552" height="167"><a href="https://maximoschro.itch.io/fincrementalos">FincrementalOS by MaximoSchro, FuzzyOcelot, Pibu, oonga_booga, blackgorillarock, Emma Z, BenEmag, Luminova, Eweeyes, vctr, alec.turgeon</a>
-    </iframe>
-</div>
+{{< itch "https://itch.io/embed/4084949?dark=true" >}}
 
 **Platform:** PC
 
