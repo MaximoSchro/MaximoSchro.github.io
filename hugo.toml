@@ -3,8 +3,9 @@ languageCode = 'en-us'
 title = "Max Schroeder | Game Systems Designer"
 theme = 'PaperMod'
 
-[goldmark.renderer]
-    unsafe = true
+[goldmark]
+    [goldmark.renderer]
+        unsafe = true
 
 [menu]
 
