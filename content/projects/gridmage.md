@@ -13,7 +13,6 @@ weight: 100
 ## Overview
 **Grid Mage** is a turn-based boss fight made in Godot to teach me the engine and to spend more time learning how to create and implement VFX. During their turn, the player uses a grid to attack and heal. On the boss's turn, the player must dodge projectiles and lasers to defeat the boss and to win the game.
 
-
 **Platform:** Windows
 
 **Role:** Solo Developer
@@ -25,7 +24,9 @@ weight: 100
 ![grid mage gameplay](img/gridmagegameplay.gif)
 
 ## My Work
-As this project was meant to teach me Godot, I spent time reading documentation, looking at tutorials, and creating new features through trial and error. I wanted to make a project that was turn-based, on a grid, with some real-time elements. I started with the grid and the player attack, moving to the boss attack to create a full game loop. I then add VFX on top to create more game feel and to make the game feel more alive.
+- Learned how to use Godot through reading documentation
+- Created new features from scratch
+- Learned Godots shader and particle system to add VFX and flair
 
 ## In-Depth: Player Attack
 ![attack heal gif](img/attackheal.gif)

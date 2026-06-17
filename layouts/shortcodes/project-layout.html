@@ -1,0 +1,10 @@
+<div class="project-layout">
+    <aside class="project-meta">
+        {{ .Get "meta" | markdownify }}
+    </aside>
+
+    <div class="project-content">
+        {{.Inner | markdownify}}
+
+    </div>
+</div>

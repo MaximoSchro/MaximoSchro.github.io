@@ -1,0 +1,30 @@
+.project-layout {
+    display: grid;
+    grid-template-columns: 250px minmax(0, 800px);
+    gap: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.project-meta {
+    position: sticky;
+    top: 2rem;
+
+    align-self: start;
+    font-size: 0.95rem;
+    line-height: 1.8;
+}
+
+.project-meta strong{
+    display: inline-block;
+    min-width: 70px;
+}
+@media (max-width: 1000px){
+    .project-layout{
+        grid-template-columns: 1fr;
+    }
+    .project-meta{
+        position: static;
+        margin-bottom: 2rem;
+    }
+}

@@ -27,8 +27,12 @@ weight: 10
 ![Cthuhlu&Me Image](img/cthulhuandmefight.gif)
 
 ## My Work
-
-I worked as both a scrum master and a designer on this project. As a scrum master, I focused on helping my team learn and use agile, as well as leading meetings and presentations. We had a team of 12, the largest that any of us had worked with before. To assist my team and ensure everything ran smoothly, I checked in with everyone every week. We went over what they would be doing, when they could get it done, and if they had enough work for the sprint. Our project was very high in scope, so I would work with the team to restructure it to make it more feasible and ensure nobody was overworked or stressed. 
+- Worked as a Scrum Master, teaching and leading my team through agile rituals
+- Created the grenade weapon system
+- Created documentation and concepts to help programmers with implementation
+- Implemented sound effects using FMOD
+- Implemented VFX made by artists
+- Helped maintain scope throughout the project
 
 As a designer, I spent my time concepting enemies, implementing our artist's VFX, and helping our UI designer connect our player variables to our UI elements, but the system I spent the most time on was the grenade system. 
 

@@ -14,8 +14,6 @@ weight: 1
 
 **FincrementalOS** is an incremental game where the player shoots fish from a submarine and interacts with a simulated operating system to gain money, upgrade, and play various minigames to become stronger and gather even more fish.
 
-{{< steam id="4408540">}} 
-
 **Platform:** Windows
 
 **Role:** Lead Designer and Scrum Master
@@ -23,14 +21,18 @@ weight: 1
 **Engine:** Unity
 
 **Date:** September 2025 - May 2026
-
 ![](img/VacuumShop.gif)
-
+{{< steam id="4408540">}} 
 ## My Work
 
-I spent my time working on various operating system windows within the game. I've worked on the vacuum, email, data, and shop windows. These were made using Unity's UI Toolkit, a tool that works similarly to web development. My goal was to make our windows feel like they should fit into an OS by keeping a consistent visual style of a monochrome monitor of the 1970's and making them feel like they were built into the submarine system itself. 
-
-I also needed to make sure the windows were easy to use and understand. Keeping buttons uniform and responsive when the player hovers their mouse over them helped players quickly grasp the mechanics of each window.
+- Lead my team through agile rituals and meetings
+- Created systems for other designers to use to allow for rapid testing and implementation
+- Designed UI for multiple windows and the taskbar
+- Maintained the repo and fixed issues and conflicts
+- Made documentation to help other designers and programmers learn the UI Toolkit and understand our UI pipeline
+- Worked with art and sound to implement various assets
+- Created builds weekly for updates and testing
+- Found and fixed bugs and other gameplay issues as they arised
 
 ![](img/shop.png)
 
@@ -52,6 +54,7 @@ I've learned a lot from my year on FincrementalOS. The best habit I've gained as
 ![](img/ShopIterations.gif)
 
 The shop had many reworks. At first, I was given a gray box to improve, to which I added color and depth. After receiving feedback from my team, I went back to the drawing board. I created a new layout with tabs, and a small list of buttons with a small area to highlight different elements of an upgrade. I ended up making what is in the game now. Through these iterations, I made something I was far more proud of, and  I enjoyed making every moment of it. Because of my team, I feel far more confident in my abilities to make UI and the systems behind it.
+
 
 ## Team
 

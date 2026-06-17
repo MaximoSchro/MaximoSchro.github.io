@@ -32,7 +32,10 @@ Our game had three constraints: it must include physics components, a sound-base
 
 ## My Work
 
-I led my team during the 48 hours we had to make this game. In the first few hours, we decided on Schrodinger's cat to be our paradox, and shaking and throwing boxes to complete our sound and physics constraints. My work consisted of dividing out tasks and creating the shaking and throwing mechanic. Throughout my short time developing, I went through multiple iterations of the throwing mechanic. Cleaning it up to make a satisfying game mechanic.
+- Designed and implemented the main mechanic in a few hours
+- Divied up tasks between the rest of the team
+- Maintained the repository and helped resolve conflicts
+- Made builds to test progress and bugs
 
 ## In-Depth: Shaking and Throwing
 
