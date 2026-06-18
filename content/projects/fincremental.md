@@ -25,8 +25,9 @@ weight: 1
 {{< steam id="4408540">}} 
 ## My Work
 
-- Lead my team through agile rituals and meetings
-- Created systems for other designers to use to allow for rapid testing and implementation
+- Lead my team through agile rituals
+- Created UI systems for other designers to use to allow for rapid testing and implementation
+- Lead meetings to keep the team up to speed and give meaningful critique
 - Designed UI for multiple windows and the taskbar
 - Maintained the repo and fixed issues and conflicts
 - Made documentation to help other designers and programmers learn the UI Toolkit and understand our UI pipeline
