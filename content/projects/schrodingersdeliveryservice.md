@@ -33,7 +33,7 @@ Our game had three constraints: it must include physics components, a sound-base
 ## My Work
 
 - Designed and implemented the main mechanic in a few hours
-- Divied up tasks between the rest of the team
+- Divided up tasks between the rest of the team
 - Maintained the repository and helped resolve conflicts
 - Made builds to test progress and bugs
 
