@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "Cthulhu & Me"
+title: "Cthulhu and Me"
 summary: "Designer working as scrum master while focusing on weapons and enemies."
 cover:
     image: "img/cthulhulogo.png"
-    alt: "Cthulhu & Me Image"
+    alt: "Cthulhu and Me Image"
 coverGif: "img/cthulhuandmefight.gif"
 hiddenInHomeList: true
 weight: 10
@@ -12,7 +12,7 @@ weight: 10
 ![](img/cthulhulogo.png)
 ## Overview
 
-**Cthulhu & Me** is a third-person pseudo-roguelike where the player progresses through semi-random levels and unlocks new weapons along the way. 
+**Cthulhu and Me** is a third-person pseudo-roguelike where the player progresses through semi-random levels and unlocks new weapons along the way. 
 
 {{< itch "https://itch.io/embed/3496510?dark=true">}}
 
@@ -24,7 +24,7 @@ weight: 10
 
 **Date:** January 2025 - May 2025
 
-![Cthuhlu&Me Image](img/cthulhuandmefight.gif)
+![CthuhluandMe Image](img/cthulhuandmefight.gif)
 
 ## My Work
 - Worked as a Scrum Master, teaching and leading my team through agile rituals
@@ -38,13 +38,13 @@ As a designer, I spent my time concepting enemies, implementing our artist's VFX
 
 ## In-Depth: The Rubber Ducky Grenade
 
-![Cthuhlu&Me Image](img/cthulhuandmegrenade.gif)
+![CthuhluandMe Image](img/cthulhuandmegrenade.gif)
 
 The rubber ducky grenade is a weapon that the player gets towards the end of the game. It makes handling the small swarming enemies easy and is effective against the tanky bed-wielding Bed Monster. For the grenade itself, I wanted something that required a little more planning than just throwing it towards an enemy. So, everytime the grenade bounced, the explosion's radius would increase, and the time remaining would decrease. This encouraged players to use the environment with the grenade to kill more enemies quickly. To communicate this to the player, each time the grenade bounced, the rubber duck became redder and the explosion itself would be noticably larger.
 
 ## Learnings
 
-Cthulhu & Me taught me how to assist a team to push forward to make our best work. I learned how to manage cutting features and how to get people to move other areas where help is needed. I also learned how to manage conflict within the team. 
+Cthulhu and Me taught me how to assist a team to push forward to make our best work. I learned how to manage cutting features and how to get people to move other areas where help is needed. I also learned how to manage conflict within the team. 
 
 At one point, the team was discussing whether we should keep jumping in the game. A couple people were really for keeping it, saying it would help with level varity, while some others were against it due to time and wanting to focus on other features. I told my team that we should let players decide and test how much they were using the jump. We ended up cutting it due to players not using it or not finding it useful, we did end up adding it back for a secret fun mode where the player could jump without any restriction.
 
