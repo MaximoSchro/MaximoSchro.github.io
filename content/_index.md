@@ -3,7 +3,7 @@ title: "Max Schroeder"
 description: ""
 ---
 # Max Schroeder
-I'm a game designer who enjoys making new and exciting systems for players to interact with. Graduated from Champlain College with a Bachelor of Science in Game Design.
+I'm a game designer passionate about creating engaging systems, mechanics, and experiences that give players new ways to interact, experiement, and have fun. I graduated from Champlain College with Bachelor of Science in Game Design.
 
 
 ---
